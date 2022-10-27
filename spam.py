@@ -22,7 +22,7 @@ import wx
 from threading import Thread
 
 #아래는 gmail 사용시만 사용
-#gmail_user="test@hyundailife.com"
+#gmail_user="test@a.com"
 #gmail_pwd="12345"
 
 js_file = "redirect.js"
